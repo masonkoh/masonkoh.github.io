@@ -47,14 +47,25 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
+  - title:             Algorithm
+    url:               /algorithm
+  - title:             Data Structure
+    url:               /datastructure
+  - title:             Unreal Engine 4
+    url:               /unrealengine4
+  - title:             Big Data
+    url:               /bigdata
+  - title:             React(web)
+    url:               /react
+  - title:             temp1
     url:               /hydejack/
-  - title:             Hyde
+  - title:             temp2
     url:               /hyde/
   - title:             Documentation
     url:               /docs/
   - title:             About
     url:               /about/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
