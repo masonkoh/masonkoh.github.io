@@ -36,7 +36,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/icons/icon_mason.jpeg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -312,11 +312,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:                <firstname> <lastname>
+  links:
+    # - https://twitter.com/<username>
+    - https://github.com/<masonkoh>
 
 
 # Other Plugins
