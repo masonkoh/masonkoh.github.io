@@ -1,7 +1,7 @@
-# masonkoh.github.io
-# Hydejack
+#Dev Blog
+**https://masonkoh.github.io**
 
-The "Best Jekyll Theme by a Mile".
+This blog is using Jekyll, Hydejack Theme and live on Github Pages.
 
 
 ![Screenshot](assets/img/blog/hydejack-8.png)
