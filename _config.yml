@@ -47,22 +47,18 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Algorithm
+  - title:             Algorithm/Data Structure
     url:               /algorithm
-  - title:             Data Structure
-    url:               /datastructure
   - title:             Unreal Engine 4
     url:               /unrealengine4
   - title:             Big Data
     url:               /bigdata
   - title:             React(web)
     url:               /react
-  - title:             temp1
-    url:               /hydejack/
-  - title:             temp2
-    url:               /hyde/
-  - title:             Documentation
-    url:               /docs/
+  # - title:             temp1
+  #   url:               /hydejack/
+  # - title:             temp2
+  #   url:               /hyde/
   - title:             About
     url:               /about/
 
