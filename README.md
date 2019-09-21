@@ -1,4 +1,4 @@
-# Mason Koh Dev Blog
+# Dev Blog
 
 ### https://masonkoh.github.io
 
