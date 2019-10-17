@@ -59,6 +59,8 @@ menu:
   #   url:               /hydejack/
   # - title:             temp2
   #   url:               /hyde/
+  - title:             Guide to Jekyll blogging
+    url:                /jekyllblogging
   - title:             About
     url:               /about/
 
