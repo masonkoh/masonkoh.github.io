@@ -31,12 +31,7 @@ unsigned int factorial(unsigned int n){
 ## Establish variables and functions (mathematical ones):
 
 Let *n* represent the value we are finding the factorial for
+
 Let **T(n)** represent number of operations needed to find **n!** using the code
-{:.message}
 
 ## Count your operations
-
-### sub-list working
-
-
-## test
