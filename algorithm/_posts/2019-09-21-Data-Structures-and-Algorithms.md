@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Structures and Algorithms.
+title: Data Structures and Algorithms
 description: >
   What are Data Structure and Algorithms?
 author: Mason Ko
