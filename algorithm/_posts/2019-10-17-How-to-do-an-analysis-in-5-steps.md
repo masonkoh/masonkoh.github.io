@@ -30,6 +30,13 @@ unsigned int factorial(unsigned int n){
 {:toc}
 My first paragraph.
 
+1. The generated Toc will be an ordered list
+{:toc}
+
+# H1 header
+
+## H2 header
+
 **Step 1**: Establish variables and functions (mathematical ones):
 {:.message}
 Let *n* represent the value we are finding the factorial for
