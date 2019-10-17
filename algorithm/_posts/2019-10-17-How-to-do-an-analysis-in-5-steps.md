@@ -8,9 +8,8 @@ noindex: true
 ---
 <!-- mk_log: "I'm writing this document manully, not by command or anything -->
 
-
+**[NOTE]**: example code 
 ~~~cpp
-
 unsigned int factorial(unsigned int n){
     unsigned int rc = 1;
     
@@ -21,5 +20,4 @@ unsigned int factorial(unsigned int n){
     return rc;
 
 }
-
 ~~~
