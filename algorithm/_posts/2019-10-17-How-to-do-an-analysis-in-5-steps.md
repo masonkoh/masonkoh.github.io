@@ -8,7 +8,6 @@ noindex: true
 ---
 <!-- mk_log: "I'm writing this document manully, not by command or anything -->
 
-1. The generated Toc will be an ordered list
 {:toc}
 
 ## Example Code
@@ -36,6 +35,7 @@ Let **T(n)** represent number of operations needed to find **n!** using the code
 
 ## Count your operations
 
+### sub-list working
 
 
 ## test
