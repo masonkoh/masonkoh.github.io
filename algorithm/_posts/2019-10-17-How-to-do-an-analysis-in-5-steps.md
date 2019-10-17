@@ -10,6 +10,7 @@ noindex: true
 
 
 ~~~cpp
+
 unsigned int factorial(unsigned int n){
     unsigned int rc = 1;
     
@@ -20,4 +21,5 @@ unsigned int factorial(unsigned int n){
     return rc;
 
 }
+
 ~~~
