@@ -8,9 +8,18 @@ noindex: true
 <!-- mk_log: "I'm writing this document manully, not by command or anything -->
 
 
+'''
+unsigned int factorial(unsigned int n){
+    unsigned int rc = 1;
+    
+    // we don't start from 1 because multiplying 1*1 gives 1. So start from 2
 
-mk_log: new post testing...
+    for(unsigned int i = 2; i <= n; i++){
+        rc = rc * i;
+    }
+    return rc;
+}
+'''
 
-**NOTE**: test
 
-> this is testing
+
