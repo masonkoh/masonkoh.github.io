@@ -25,9 +25,11 @@ unsigned int factorial(unsigned int n){
 }
 ~~~
 
+* test
 
-**Step 1**: Establish variables and functions (mathematical ones):
+* **Step 1**: Establish variables and functions (mathematical ones):
 {:.message}
+{:toc}
 Let *n* represent the value we are finding the factorial for
 
 Let *T(n)* represent number of operations needed to find *n!* using the code
