@@ -8,7 +8,8 @@ noindex: true
 ---
 <!-- mk_log: "I'm writing this document manully, not by command or anything -->
 
-* TOC
+1. TOC
+2. 
 {:no_toc}
 
 ## Example Code
@@ -39,3 +40,4 @@ Let **T(n)** represent number of operations needed to find **n!** using the code
 {:.message}
 
 
+## test
