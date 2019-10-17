@@ -8,8 +8,7 @@ noindex: true
 ---
 <!-- mk_log: "I'm writing this document manully, not by command or anything -->
 
-* **Example Code**
-{:toc}
+**Example Code**
 {:.message}
 
 ~~~cpp
@@ -27,9 +26,12 @@ unsigned int factorial(unsigned int n){
 
 * test
 
-* **Step 1**: Establish variables and functions (mathematical ones):
-{:.message}
+* TOC
 {:toc}
+My first paragraph.
+
+**Step 1**: Establish variables and functions (mathematical ones):
+{:.message}
 Let *n* represent the value we are finding the factorial for
 
 Let *T(n)* represent number of operations needed to find *n!* using the code
