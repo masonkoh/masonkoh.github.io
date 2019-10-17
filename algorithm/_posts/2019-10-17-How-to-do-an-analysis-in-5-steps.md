@@ -21,3 +21,13 @@ unsigned int factorial(unsigned int n){
 
 }
 ~~~
+
+**[NOTE]**: Step1: Establish variables and functions (mathematical ones):
+
+Let *n* represent the value we are finding the factorial for
+
+Let *T(n)* represent number of operations needed to find *n!* using the code
+
+**[NOTE]**: Count your operations
+
+
