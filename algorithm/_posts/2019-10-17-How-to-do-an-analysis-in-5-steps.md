@@ -8,10 +8,8 @@ noindex: true
 ---
 <!-- mk_log: "I'm writing this document manully, not by command or anything -->
 
-1. TOC
-2. 
-
-{:.no_toc}
+1. The generated Toc will be an ordered list
+{:toc}
 
 ## Example Code
 
