@@ -8,7 +8,8 @@ noindex: true
 ---
 <!-- mk_log: "I'm writing this document manully, not by command or anything -->
 
-**Example Code**
+* **Example Code**
+{:toc}
 {:.message}
 
 ~~~cpp
@@ -23,6 +24,7 @@ unsigned int factorial(unsigned int n){
 
 }
 ~~~
+
 
 **Step 1**: Establish variables and functions (mathematical ones):
 {:.message}
