@@ -10,10 +10,9 @@ noindex: true
 
 1. TOC
 2. 
-{:no_toc}
+{:.no_toc}
 
 ## Example Code
-{:.message}
 
 ~~~cpp
 unsigned int factorial(unsigned int n){
@@ -31,13 +30,13 @@ unsigned int factorial(unsigned int n){
 
 
 ## Establish variables and functions (mathematical ones):
-{:.message}
+
 Let *n* represent the value we are finding the factorial for
 
 Let **T(n)** represent number of operations needed to find **n!** using the code
 
 ## Count your operations
-{:.message}
+
 
 
 ## test
