@@ -8,6 +8,9 @@ noindex: true
 ---
 <!-- mk_log: "I'm writing this document manully, not by command or anything -->
 
+* TOC
+{:toc}
+
 **Example Code**
 {:.message}
 
@@ -24,26 +27,15 @@ unsigned int factorial(unsigned int n){
 }
 ~~~
 
-* test
 
-* TOC
-{:toc}
-My first paragraph.
 
-1. The generated Toc will be an ordered list
-{:toc}
-
-# H1 header
-
-## H2 header
-
-**Step 1**: Establish variables and functions (mathematical ones):
+## H2 Establish variables and functions (mathematical ones):
 {:.message}
 Let *n* represent the value we are finding the factorial for
 
-Let *T(n)* represent number of operations needed to find *n!* using the code
+Let **T(n)** represent number of operations needed to find **n!** using the code
 
-**Step 2**: Count your operations
+## H2 Count your operations
 {:.message}
 
 
