@@ -47,8 +47,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Algorithm/Data Structure
+  - title:             Algorithm/Data Structure(usingC++)
     url:               /algorithm
+  - title:             C++
+    url:               /cpp
   - title:             Unreal Engine 4
     url:               /unrealengine4
   - title:             Big Data
